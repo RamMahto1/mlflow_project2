@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/mlfow_project2/mlruns/0/10b88a53e0b44d5b98557967fc6dd2ef/artifacts
+end_time: 1750599630672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10b88a53e0b44d5b98557967fc6dd2ef
+run_name: RandomforestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750599624824
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

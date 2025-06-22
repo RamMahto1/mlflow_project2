@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow_experiment/mlfow_project2/mlruns/0/f0b19fa230314d5baf0e97e50aff621a/artifacts
+deleted_time: 1750595424941
+end_time: 1750594739425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f0b19fa230314d5baf0e97e50aff621a
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750594739285
+status: 4
+tags: []
+user_id: ThinkPad-T570Worksta

@@ -1,0 +1,10 @@
+artifact_location: file:///E:/mlflow_experiment/mlfow_project2/mlruns/0/models/m-8aad696a37ec43ccbece675eceb6df84/artifacts
+creation_timestamp: 1750594912249
+experiment_id: '0'
+last_updated_timestamp: 1750594919393
+model_id: m-8aad696a37ec43ccbece675eceb6df84
+model_type: null
+name: decision_tree_regressor
+source_run_id: 537c16d224454dec8c0069001935ba69
+status: 2
+status_message: null
